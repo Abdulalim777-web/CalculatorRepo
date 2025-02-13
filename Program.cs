@@ -3,7 +3,7 @@
  try
  {
 
-    Console.WriteLine("Enter 1 to access Addition\nEnter 2 to access Multiplication\nEnter 3 to access division\nEnter 5 to access subtraction");
+    Console.WriteLine("Enter 1 to access Addition\nEnter 2 to access Multiplication\nEnter 3 to access division\nEnter 4 to access subtraction");
     int value = int.Parse(Console.ReadLine()!);
     Console.WriteLine("Welldone");
  
